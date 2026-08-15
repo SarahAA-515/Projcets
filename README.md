@@ -1,4 +1,4 @@
-# [Project: heart rate physiological measure](https://github.com/SarahAA-515/Projcets/blob/main/ProcessingHeartRate.py)
+# [Project: heart rate physiological measure](ProcessingHeartRate.py)
 ML-based physiological biometric authentication using heart rate, built on open Scientific Data datasets, coded in Python.
 
 # Overview 
