@@ -16,9 +16,9 @@ key result:
 - Person D: 22.5% flagged, 77.5% FAR.
 - Person F: 57.8% flagged, 42.2% FAR.
 
- ![](https://github.com/SarahAA-515/heart-rate-physiological-measure/blob/main/images/Figure_1.png)
+ ![](images/Figure_1.png)
 
- ![](https://github.com/SarahAA-515/heart-rate-physiological-measure/blob/main/images/Figure_21.png)
+ ![](images/Figure_21.png)
  
 # Details on Dataset Used
 Data source:
