@@ -16,10 +16,33 @@ key result:
 - Person D: 22.5% flagged, 77.5% FAR.
 - Person F: 57.8% flagged, 42.2% FAR.
 
+
+# Figure 1. Bar graph
  ![](/images/Figure_1.png)
 
+- Statistical Data:
+
+     count    79639.000000
+
+     mean         0.420590
+
+     std          0.317340
+ 
+     min         -1.188847
+ 
+     25%          0.151458
+ 
+     50%          0.361241
+ 
+     75%          0.670413
+ 
+     max          0.997574
+
+
+# Figure 2. Scatter plot
  ![](/images/Figure_21.png)
 Red dots = readings the model flagged as anomalous (pred == -1)
+
 Blue dots = readings the model classified as normal (pred == +1)
 
  
