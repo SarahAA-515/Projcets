@@ -1,4 +1,4 @@
-# heart rate physiological measure
+# Project: heart rate physiological measure
 ML-based physiological biometric authentication using heart rate, built on open Scientific Data datasets, coded in Python.
 
 # Overview 
@@ -19,6 +19,9 @@ key result:
  ![](/images/Figure_1.png)
 
  ![](/images/Figure_21.png)
+Red dots = readings the model flagged as anomalous (pred == -1)
+Blue dots = readings the model classified as normal (pred == +1)
+
  
 # Details on Dataset Used
 Data source:
